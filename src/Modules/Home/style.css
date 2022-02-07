@@ -1,0 +1,51 @@
+.News_title_head {
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-align: left;
+}
+
+.news_title_active {
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.news_title {
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.button_adv_search {
+    background-color: white;
+    border: 1px solid #344CB7;
+    height: 3vh;
+    border-radius: 5px;
+    width: 10vw;
+    cursor: pointer;
+}
+
+.button_adv_search:hover {
+    background-color: #344CB7;
+    border: 1px solid white;
+    color: white;
+}
+
+.item_selection:hover {
+    background-color: #344CB7;
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.select_container>select {
+    height: 5vh;
+    width: 15vw;
+    border-radius: 5px;
+}
+
+.select_container {
+    height: 5vh;
+    width: 15vw;
+    border-radius: 5px;
+}
